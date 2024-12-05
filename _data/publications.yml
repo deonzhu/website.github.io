@@ -4,7 +4,7 @@ main:
     authors: Qihang Zhu*, Chunxin Yang, Peng Ke*, Han Yang, Ping Hong (*Corresponding authors)
     conference_short: iScience
     conference: iScience, Volume 27, Issue 1, 2024
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://www.sciencedirect.com/science/article/pii/S2589004223025907?via%3Dihub
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Pub1.jpg
