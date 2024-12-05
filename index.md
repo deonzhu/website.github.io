@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ISIR, University.
+I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), University, surpervied by [Gilles Bailly](https://hci.isir.upmc.fr/gilles-bailly/), [Julien Gori](https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en) and [Emmanuel guigon](http://e.guigon.free.fr/). My PhD project is about using the motor control model to predict the trajectories of the user of Virtual Reality in the dynamic environment, and trying build the computational model of people's perceptual boundary of the VR illusion techniques, e.g, hand redirection, redirected walking, etc.
 
 ## Research Interests
 
-- **Motor control model** stochastic optimal feedback control, receding-horizon, human movement variability
-- **Human perception in VR techs** the model of human illusion detection threshold in hand redirection
+- **Motor control model**: stochastic optimal feedback control, receding-horizon, human movement variability
+- **Human perception in VR techs**: Modeling human illusion detection threshold in hand redirection
   
 {% include_relative _includes/publications.md %}
 
@@ -34,7 +34,7 @@ I am a Ph.D. student at ISIR, University.
 -  Poster: The computational model of detection threshold in the Hand Redirection. Qihang Zhu, RJC IHM, Oleron, France.
 
 ## Honors & Awards
--  Top honored graduate students of BUAA
+-  Top 10 honored graduate students of BUAA
 -  Outstanding Graduate of BUAA
 
 ## Competitions
