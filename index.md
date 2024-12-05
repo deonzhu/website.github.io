@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), University, surpervied by [Gilles Bailly](https://hci.isir.upmc.fr/gilles-bailly/), [Julien Gori](https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en) and [Emmanuel guigon](http://e.guigon.free.fr/). My PhD project is about using the motor control model to predict the users' trajactories in Virtual Reality in the dynamic environment, and trying build the computational model of people's detection threshold of the VR illusion techniques, e.g, hand redirection, redirected walking, etc.
+I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), University, supervised by [Gilles Bailly](https://hci.isir.upmc.fr/gilles-bailly/), [Julien Gori](https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en) and [Emmanuel guigon](http://e.guigon.free.fr/). My PhD project is about using the motor control model to predict the users' trajactories in Virtual Reality in the dynamic environment, and trying build the computational model of people's detection threshold of the VR illusion techniques, e.g, hand redirection, redirected walking, etc.
 
 ## Research Interests
 
