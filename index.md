@@ -9,7 +9,7 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 ## Research Interests
 
 - **Motor control model**: stochastic optimal feedback control, receding-horizon, human movement variability
-- **Human perception in VR techs**: Modeling human illusion detection threshold in hand redirection
+- **HCI and VR**: Modeling human illusion detection threshold in hand redirection
   
 {% include_relative _includes/publications.md %}
 
