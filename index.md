@@ -8,15 +8,12 @@ I am a Ph.D. student at ISIR, University.
 
 ## Research Interests
 
-- **Motor control model** image recognition, image generation, video captioning
-- **Human perception in VR techs** meta-learning, incremental learning, transfer learning
-
+- **Motor control model** stochastic optimal feedback control, receding-horizon, human movement variability
+- **Human perception in VR techs** the model of human illusion detection threshold in hand redirection
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
-## Service
--  Reviewer: ACM CHI'25 
 
 ## Education background
 - 2023-Present: PhD - Human Computer Interaction - Sorbonne University - Paris, France
