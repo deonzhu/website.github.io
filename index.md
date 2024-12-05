@@ -31,7 +31,7 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 
 ## Poster and talks
 -  Talk: The computational model of detection threshold in the Hand Redirection. Qihang Zhu, 1st European Motor Control Conference, Munich, Germany.
--  Poster: The computational model of detection threshold in the Hand Redirection. Qihang Zhu, RJC IHM, Oleron, France.
+-  Poster: The computational model of detection threshold in the Hand Redirection. Qihang Zhu, RJC IHM, Oléron, France.
 
 ## Honors & Awards
 -  Top 10 honored graduate students of BUAA
